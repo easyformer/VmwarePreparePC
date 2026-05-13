@@ -3,7 +3,7 @@
 > Outil graphique de désactivation de la pile de virtualisation Windows, conçu pour les TP de la plateforme TSSR d'Easyformer.
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Capture de l'interface — Étape 1 : Diagnostic" width="800">
+  <img src="screenshot.png" alt="Capture de l'interface — Étape 1 : Diagnostic" width="800">
 </p>
 
 ---
